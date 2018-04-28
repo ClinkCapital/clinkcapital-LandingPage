@@ -188,9 +188,12 @@ h1, h2, h3, h4, h5, h6, a, p {
     #banner1 .container-us p {
       color: #767683; }
     #banner1 .container-us h4 {
-      padding-top: 3em;
       padding-bottom: 3em;
       color: #727888; }
+    #banner1 h1 {
+      color: #0c5292;
+      font-weight: 600;
+    }
     #banner1 #random {
       background: url("../images/img5.jpeg");
       background-size: cover;
