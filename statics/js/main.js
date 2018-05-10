@@ -24,9 +24,9 @@ do {
 	$(document).ready(function() {
 
 	var contenedor = $('#random');
-	var imagenes = ['img3.jpeg', 'img4.jpeg', 'img.jpeg', 'img5.jpeg'];
+	var imagenes = ['r01.jpeg', 'r02.jpeg', 'r03.jpeg', 'r04.jpeg'];
 	var tiempo = 2500;
-	contenedor.css({'background-image':'url(statics/images/img3.jpeg)'});
+	contenedor.css({'background-image':'url(statics/images/r01.jpeg)'});
 
 	function image(){
 	setTimeout(function() {
