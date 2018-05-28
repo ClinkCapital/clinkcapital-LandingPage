@@ -214,6 +214,9 @@ p {
   color: #0c5292 !important;
   font-weight: bold;
 }
+.font-enf {
+  font-family: 'Kalam', cursive;
+}
 .red {
   color: rgb(228, 76, 101) !important;
   font-weight: bold;
