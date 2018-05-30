@@ -271,7 +271,7 @@ p {
 
 #banner-obj {
   height: 100vh;
-  background: url("../images/img9.jpeg");
+  background: url("../images/img9_rec.jpeg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center 80%;
@@ -327,24 +327,21 @@ p {
 
 
 
-/***Know more****/
+/*** Projects ****/
 
-#banner3 {
+#banner-projects {
   background: rgba(228, 76, 101, 0.10);
-  height: 75vh;
+  height: 100vh;
 }
 
-#banner3 img {
-  width: 50%;
-}
 
-#banner3 h1 {
+#banner-projects h1 {
   color: rgb(228, 76, 101);
   font-weight: 600;
-  margin-top: 4em;
+  margin-top: 2em;
 }
 
-#banner3 h3 {
+#banner-projects h3 {
   color: #727888;
   padding: 10px 3em;
 }
